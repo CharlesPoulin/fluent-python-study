@@ -1,0 +1,1 @@
+https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/ch02.html 

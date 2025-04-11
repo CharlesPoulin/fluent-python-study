@@ -8,3 +8,8 @@ https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/prefac
 
 ## Good stack overflow to read
 https://stackoverflow.com/questions/1436703/what-is-the-difference-between-str-and-repr
+
+
+
+
+I know she did a book go vs python but thats some cRazy nitpicking 
