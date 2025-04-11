@@ -1,0 +1,2 @@
+# Add any needed packages, e.g., Jupyter
+notebook
