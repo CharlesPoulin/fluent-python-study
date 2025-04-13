@@ -1,3 +1,12 @@
+Fluent 2 practive i made.
+
+
+
+
+
+Docs
+
+
 https://github.com/fluentpython/example-code-2e
 https://www.fluentpython.com/
 https://docs.python.org/3/library/doctest.html
