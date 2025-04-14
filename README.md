@@ -7,6 +7,10 @@ Fluent 2 practive i made.
 Docs
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2b51862 (rebase)
 https://github.com/fluentpython/example-code-2e
 https://www.fluentpython.com/
 https://docs.python.org/3/library/doctest.html
